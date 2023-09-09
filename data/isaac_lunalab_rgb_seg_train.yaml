@@ -1,0 +1,12 @@
+# lunalab dataset v2
+# path: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_pathtrace_yolo
+# train: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_pathtrace_yolo/train2017
+# val: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_pathtrace_yolo/val2017
+
+path: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_raytrace_yolo
+train: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_raytrace_yolo/train2017
+val: /media/lunar4/3C2283022282BFFE/jnskkmhr/isaac_lunalab_rock/data_raytrace_yolo/val2017
+
+# class name
+names:
+  0: rock

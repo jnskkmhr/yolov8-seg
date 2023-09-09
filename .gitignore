@@ -1,0 +1,8 @@
+yolov8_env
+yolov8n.pt
+yolov8s-seg.pt
+wandb
+runs
+lunalab_benchmark
+appolo_benchmark
+yolov8_rgb_segment

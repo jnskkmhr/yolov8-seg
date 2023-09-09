@@ -1,0 +1,8 @@
+path: /media/lunar4/3C2283022282BFFE/jnskkmhr/AS17-137
+train: /media/lunar4/3C2283022282BFFE/jnskkmhr/AS17-137/test
+val: /media/lunar4/3C2283022282BFFE/jnskkmhr/AS17-137/test
+test: /media/lunar4/3C2283022282BFFE/jnskkmhr/AS17-137/test
+
+# class name
+names:
+  0: rock

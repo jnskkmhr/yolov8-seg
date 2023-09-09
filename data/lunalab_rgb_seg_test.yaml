@@ -1,0 +1,9 @@
+# D435 mid angle
+path: /media/lunar4/3C2283022282BFFE/jnskkmhr/lunalab_d435_yolo/mid
+train: /media/lunar4/3C2283022282BFFE/jnskkmhr/lunalab_d435_yolo/mid/test
+val: /media/lunar4/3C2283022282BFFE/jnskkmhr/lunalab_d435_yolo/mid/test
+test: /media/lunar4/3C2283022282BFFE/jnskkmhr/lunalab_d435_yolo/mid/test
+
+# class name
+names:
+  0: rock
